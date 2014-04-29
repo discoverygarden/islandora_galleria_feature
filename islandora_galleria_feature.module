@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Islandora Galleria Feature feature.
+ */
+
+include_once 'islandora_galleria_feature.features.inc';

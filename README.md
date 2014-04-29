@@ -1,18 +1,30 @@
-# Islandora BagIt [![Build Status](https://travis-ci.org/discoverygarden/islandora_galleria.png?branch=7.x)](https://travis-ci.org/discoverygarden/islandora_galleria)
+# Islandora Galleria Feature
 
 ## Introduction
 
-@todo Document me.
+A Feature to configure Galleria for our sites.
 
 ## Requirements
 
 This module requires the following modules/libraries:
 
-* [Libraries](https://drupal.org/project/libraries)
+* [fe_block](http://drupal.org/project/fe_block)
+* [features](http://drupal.org/project/features)
+* [galleria](http://drupal.org/project/galleria)
+* [image_field_caption](http://drupal.org/project/image_field_caption)
+* [jquery_update](http://drupal.org/project/jquery_update)
+* [libraries](http://drupal.org/project/libraries)
+* [strongarm](http://drupal.org/project/strongarm)
+* [views](http://drupal.org/project/views)
+* [views_slideshow](http://drupal.org/project/views_slideshow)
+* [views_slideshow_galleria](http://drupal.org/project/views_slideshow_galleria)
+
+
 
 ## Installation
 
-@todo Document me.
+Download the Galleria Javascript library from http://galleria.aino.se/download/
+and extract the galleria folder into your /sites/all/libraries/ directory.
 
 ## Troubleshooting/Issues
 
