@@ -21,7 +21,7 @@ function islandora_galleria_feature_node_info() {
     'slideshow' => array(
       'name' => t('Slideshow'),
       'base' => 'node_content',
-      'description' => t('The content type used by Islandora Galleria to model the slideshow.'),
+      'description' => t('Slideshow content'),
       'has_title' => '1',
       'title_label' => t('Title'),
       'help' => '',
