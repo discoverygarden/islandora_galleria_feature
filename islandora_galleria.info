@@ -1,0 +1,5 @@
+name = Islandora Galleria
+description = Setups up the Galleria Plugin to work with Islandora.
+core = 7.x
+package = Islandora Tools
+dependencies[] = libraries
